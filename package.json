@@ -1,0 +1,10 @@
+{
+  "name": "starterTemplate",
+  "version": "0.1.0",
+  "description": "Starter template",
+  "author": "Steven Porter",
+  "devDependencies": {
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
